@@ -16,11 +16,11 @@
     <div id="MainPage">
         <div id="wrapper">
             <nav class="navbar main-navbar navbar-expand-lg navbar-light">
-                <a href="/" class="navbar-brand"> <img src="/storage/logo.png" class="mainlogo" alt=""> </a>                
+                <a href="/" class="navbar-brand"> <img src="/store/logo.png" class="mainlogo" alt=""> </a>                
             </nav>
         
             <div class="hero-section">
-                <img src="/storage/frontend/lionsunset.jpg" alt="Safari Lion Image" width="100%" height="100%">
+                <img src="/store/frontend/lionsunset.jpg" alt="Safari Lion Image" width="100%" height="100%">
 
                 <div class="hero-text">
                     <h4>Enjoy the solitude and solace of</h4>
@@ -48,15 +48,15 @@
             <div class="mdi-top-info container-fluid p-0 m-0">
                 <div class="row">
                     <div class="col-md-6 mid-img-holder p-0 m-0">
-                        <img src="/storage/frontend/cheetah.jpg" alt="Cheetah" width="100%" height="100%">
+                        <img src="/store/frontend/cheetah.jpg" alt="Cheetah" width="100%" height="100%">
                     </div>
                     <div class="col-md-6 mid-img-holder p-0 m-0">
                         <div class="row">
                             <div class="col-md-6 mid-img-holder p-0 m-0">
-                                <img src="/storage/frontend/giraffe.jpg" alt="Giraffe" width="100%" height="100%">
+                                <img src="/store/frontend/giraffe.jpg" alt="Giraffe" width="100%" height="100%">
                             </div>
                             <div class="col-md-6 mid-img-holder p-0 m-0">
-                                <img src="/storage/frontend/lion.jpg" alt="Giraffe" width="100%" height="100%">
+                                <img src="/store/frontend/lion.jpg" alt="Giraffe" width="100%" height="100%">
                             </div>
                         </div>
                     </div>
@@ -66,15 +66,15 @@
                     <div class="col-md-6 mid-img-holder p-0 m-0">
                         <div class="row">
                             <div class="col-md-6 mid-img-holder p-0 m-0">
-                                <img src="/storage/frontend/giraffe.jpg" alt="Giraffe" width="100%" height="100%">
+                                <img src="/store/frontend/giraffe.jpg" alt="Giraffe" width="100%" height="100%">
                             </div>
                             <div class="col-md-6 mid-img-holder p-0 m-0">
-                                <img src="/storage/frontend/wilderbeast.jpeg" alt="Giraffe" width="100%" height="100%">
+                                <img src="/store/frontend/wilderbeast.jpeg" alt="Giraffe" width="100%" height="100%">
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6 mid-img-holder p-0 m-0">
-                        <img src="/storage/frontend/zebras.jpg" alt="Cheetah" width="100%" height="100%">
+                        <img src="/store/frontend/zebras.jpg" alt="Cheetah" width="100%" height="100%">
                     </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@
             </div>
             <div class="row mid-banner">
                 <div class="col-md-6 p-0 m-0">
-                    <img src="/storage/frontend/leopard.jpg" alt="" width="100%" height="100%">
+                    <img src="/store/frontend/leopard.jpg" alt="" width="100%" height="100%">
                 </div>
                 <div class="col-md-6 p-0 m-0 md-left">
                 <h4>It is better to see something once than to hear about it a thousand times</h4>
@@ -115,7 +115,7 @@
                     <div class="col-md-4 ">
                         <div class="card service-col">
                             <div>
-                                <img src="/storage/frontend/flamingos.jpeg" alt="" width="100%" height="100%">
+                                <img src="/store/frontend/flamingos.jpeg" alt="" width="100%" height="100%">
                             </div>
                             <div class="service-text text-center">
                                 <h5>Upclose with flamingos</h5>
@@ -129,7 +129,7 @@
                     <div class="col-md-4 ">
                         <div class="card service-col">
                             <div>
-                                <img src="/storage/frontend/ocean.jpg" alt="" width="100%" height="100%">
+                                <img src="/store/frontend/ocean.jpg" alt="" width="100%" height="100%">
                             </div>
                             <div class="service-text text-center">
                                 <h5>Scenic view of the Ocean</h5>
@@ -143,7 +143,7 @@
                     <div class="col-md-4 ">
                         <div class="card service-col">
                             <div>
-                                <img src="/storage/frontend/hotels.jpg" alt="" width="100%" height="100%">
+                                <img src="/store/frontend/hotels.jpg" alt="" width="100%" height="100%">
                             </div>
                             <div class="service-text text-center">
                                 <h5>Luxurious 5-star Hotels</h5>
@@ -170,7 +170,7 @@
                     <div class="row">
                     <div class="col-md-6 p-0 m-0">
                     <div class="img-holder">
-                        <img src="/storage/frontend/nairobipark.jpg" alt="" width="100%" height="100%">
+                        <img src="/store/frontend/nairobipark.jpg" alt="" width="100%" height="100%">
                     </div>
                 </div>
                 <div class="col-md-6 explore-content p-0 m-0">
@@ -183,13 +183,13 @@
 
                 <div class="col-md-6 p-0 m-0">
                     <div class="img-holder">
-                        <img src="/storage/frontend/maasai.jpg" alt="" width="100%" height="100%">
+                        <img src="/store/frontend/maasai.jpg" alt="" width="100%" height="100%">
                     </div>
                 </div>                
 
                 <div class="col-md-6 p-0 m-0">
                     <div class="img-holder">
-                        <img src="/storage/frontend/lakenakuru.jpg" alt="" width="100%" height="100%">
+                        <img src="/store/frontend/lakenakuru.jpg" alt="" width="100%" height="100%">
                     </div>
                 </div>
                 <div class="col-md-6 explore-content p-0 m-0">
@@ -203,13 +203,13 @@
 
                 <div class="col-md-6 p-0 m-0">
                     <div class="img-holder">
-                        <img src="/storage/frontend/elephantnursery.jpg" alt="" width="100%" height="100%">
+                        <img src="/store/frontend/elephantnursery.jpg" alt="" width="100%" height="100%">
                     </div>
                 </div>
 
                 <div class="col-md-6 p-0 m-0">
                     <div class="img-holder">
-                        <img src="/storage/frontend/amboseli.jpg" alt="" width="100%" height="100%">
+                        <img src="/store/frontend/amboseli.jpg" alt="" width="100%" height="100%">
                     </div>
                 </div>
                 <div class="col-md-6 explore-content p-0 m-0">
@@ -241,7 +241,7 @@
         <div class="row">
             <div class="col-md-3 text-center">
                 <div>
-                    <img src="/storage/logo.png" alt="">
+                    <img src="/store/logo.png" alt="">
 
                     <h5>We are a reputable Tours and Travel Company based in Nairobi. We aim to deliver the best services in Kenya and beyond.</h5>
                 </div>
