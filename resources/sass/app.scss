@@ -21,6 +21,42 @@ body{
     font-size: 18px;
     text-transform: uppercase;
 }
+.main-text{
+    font-size: 20px;
+}
+.service-text{
+    background: $primarycolor;
+    padding: 20px;
+    h5{
+        color: #fff;
+    }
+}
+.text-footer{
+    padding: 30px;
+    h3{
+        color: #000;
+        font-size: 20px;
+    }
+}
+.main-header{
+    margin-top: 60px;
+    h6{
+        color: #666;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+    }
+    h3{
+        color: #333;
+        font-weight: bold;
+        font-size: 40px;
+    }
+    hr{
+        border: 4px solid $primarycolor;
+        width: 10%;
+        margin-top: 40px;
+    }
+}
 .btn-cta-holder{
     position: relative;
     .small-btn-arrow{
@@ -74,6 +110,8 @@ body{
         nav{
             background: $secondarycolor;
             padding: 20px;
+            position: static !important;
+            z-index: 100 !important;
             ul{
                 li{
                     position: relative;
@@ -107,5 +145,89 @@ body{
         img{
             object-fit: cover;
         }
+    }
+    .mid-banner{
+        .md-left{
+            background: orange;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            h4{
+                font-size: 35px;
+                padding: 30px;
+                text-align: center;
+                font-family: 'Merienda', cursive;
+
+            }
+        }
+    }
+}
+
+#services{
+    background: #f3f3f3;
+    padding-bottom: 100px;
+    .service-col{
+        background: #fff !important;
+        border: none;
+        border-radius: 20px !important;
+        box-shadow: 0px 15px 10px rgb(230, 230, 230);
+        transition: .3s;
+        overflow: hidden;
+        img{
+            border-top-right-radius: 20px;
+            border-top-left-radius: 20px;
+            width: auto;
+            height: 250px; 
+        }
+
+        &:hover{
+            box-shadow: 0px 0px 10px rgb(182, 182, 182);
+
+        }
+    }
+}
+
+#explore{
+    .explore-content{
+        background: $primarycolor;
+    }
+}
+.lower-cta{
+    background: #000;
+    p{
+        color: #fff;
+        padding: 50px;
+        font-size: 25px;
+    }
+}
+footer{
+    padding: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: #000;
+    img{
+        width: 100px;
+        margin-top: 30px;
+        height: auto;
+    }
+    h5{
+        color: #fff;
+        margin-top: 20px;
+    }
+    h4{
+        font-size: 17px;
+        margin-top: 40px;
+        color: #fff;
+    }
+    hr{
+        border: 3px solid $primarycolor;
+        width: 20%;
+        margin-left: 0px;
+    }
+    li{
+        color: #f3f3f3;
+    }
+    i{
+        color: $primarycolor;
     }
 }

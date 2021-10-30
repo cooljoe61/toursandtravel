@@ -10021,6 +10021,46 @@ body {
   text-transform: uppercase;
 }
 
+.main-text {
+  font-size: 20px;
+}
+
+.service-text {
+  background: #ff7300;
+  padding: 20px;
+}
+.service-text h5 {
+  color: #fff;
+}
+
+.text-footer {
+  padding: 30px;
+}
+.text-footer h3 {
+  color: #000;
+  font-size: 20px;
+}
+
+.main-header {
+  margin-top: 60px;
+}
+.main-header h6 {
+  color: #666;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.main-header h3 {
+  color: #333;
+  font-weight: bold;
+  font-size: 40px;
+}
+.main-header hr {
+  border: 4px solid #ff7300;
+  width: 10%;
+  margin-top: 40px;
+}
+
 .btn-cta-holder {
   position: relative;
 }
@@ -10073,6 +10113,8 @@ body {
 #wrapper .mid-nav nav {
   background: #494949;
   padding: 20px;
+  position: static !important;
+  z-index: 100 !important;
 }
 #wrapper .mid-nav nav ul li {
   position: relative;
@@ -10102,4 +10144,83 @@ body {
 #wrapper .mid-img-holder img {
   -o-object-fit: cover;
      object-fit: cover;
+}
+#wrapper .mid-banner .md-left {
+  background: orange;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+#wrapper .mid-banner .md-left h4 {
+  font-size: 35px;
+  padding: 30px;
+  text-align: center;
+  font-family: "Merienda", cursive;
+}
+
+#services {
+  background: #f3f3f3;
+  padding-bottom: 100px;
+}
+#services .service-col {
+  background: #fff !important;
+  border: none;
+  border-radius: 20px !important;
+  box-shadow: 0px 15px 10px #e6e6e6;
+  transition: 0.3s;
+  overflow: hidden;
+}
+#services .service-col img {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  width: auto;
+  height: 250px;
+}
+#services .service-col:hover {
+  box-shadow: 0px 0px 10px #b6b6b6;
+}
+
+#explore .explore-content {
+  background: #ff7300;
+}
+
+.lower-cta {
+  background: #000;
+}
+.lower-cta p {
+  color: #fff;
+  padding: 50px;
+  font-size: 25px;
+}
+
+footer {
+  padding: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #000;
+}
+footer img {
+  width: 100px;
+  margin-top: 30px;
+  height: auto;
+}
+footer h5 {
+  color: #fff;
+  margin-top: 20px;
+}
+footer h4 {
+  font-size: 17px;
+  margin-top: 40px;
+  color: #fff;
+}
+footer hr {
+  border: 3px solid #ff7300;
+  width: 20%;
+  margin-left: 0px;
+}
+footer li {
+  color: #f3f3f3;
+}
+footer i {
+  color: #ff7300;
 }
